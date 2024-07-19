@@ -2,7 +2,7 @@
 
 ## Board
 
-Schematics in [pdf format](./pcb/schematic.pdf)
+Schematics in [pdf format](./pcb/usb-pd-mch-hotplate.pdf)
 
 ![schematic](./images/schematic.png)
 
