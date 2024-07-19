@@ -4,7 +4,7 @@
 
 Schematics in [pdf format](./images/schematic.pdf)
 
-![schematic](./images/schematic.png)
+![schematic](./pcb/schematic.png)
 
 Archive with gerber files and drill locations could be found [here](./pcb/manufacturing/manufacturing.zip)
 
