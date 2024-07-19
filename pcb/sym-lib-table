@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NHD-C0216CZ-FSW-FBW-3V3")(type "KiCad")(uri "${KIPRJMOD}/components/NHD-C0216CZ-FSW-FBW-3V3/NHD-C0216CZ-FSW-FBW-3V3.kicad_sym")(options "")(descr ""))
+  (lib (name "TL1250F180GQRCLR")(type "KiCad")(uri "${KIPRJMOD}/components/TL1250F180GQRCLR/TL1250F180GQRCLR.kicad_sym")(options "")(descr ""))
+)
