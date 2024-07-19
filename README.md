@@ -71,6 +71,8 @@ Step file for [MCH holder](./chassis/MCH holder.STEP). Please note that it's bet
 - MCH element connector, 710-661002151922
 - display connectors, 649-65039-033ELF, 2pcs
 - display connector terminals, 649-47217-000LF, 8pcs
+- kapton tape
+- high temperature silicone sealant, K2 B205N
 
 ### Assembly steps
 
