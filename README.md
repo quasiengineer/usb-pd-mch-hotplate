@@ -2,9 +2,9 @@
 
 ## Board
 
-Schematics in [pdf format](./images/schematic.pdf)
+Schematics in [pdf format](./pcb/schematic.pdf)
 
-![schematic](./pcb/schematic.png)
+![schematic](./images/schematic.png)
 
 Archive with gerber files and drill locations could be found [here](./pcb/manufacturing/manufacturing.zip)
 
