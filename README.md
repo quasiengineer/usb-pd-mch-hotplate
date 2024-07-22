@@ -1,5 +1,8 @@
 # USB-powered hot plate
 
+Video about this project:
+[![Video about this project](./images/youtube.png)](https://www.youtube.com/watch?v=0ewrXzEZL8w)
+
 ## Board
 
 Schematics in [pdf format](./pcb/usb-pd-mch-hotplate.pdf)
